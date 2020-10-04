@@ -12,14 +12,17 @@ A Minecraft mod that brings various types of mud to the game while keeping the v
   - Can be thrown like a snowball but is a bit heavier so it won't travel as far.
   - Has minimal knockback and damage but stuns the reciver for a few seconds
   - Gives resistance to players and mobs while they are stunned
+  - Crafted with a bucket of water and dirt
 - Mud Block
   - Standing leg deep in mud slows the player down and negates fall damage.
   - When fully caked in mud, (when the head is inside mud) you gain the ability to see close objects but the rest of your vision is dark. You do not suffocate in mud.
-  - Mud falls with gravity like sand and gravel. Mud will collapse on its self if it is not built block by block. 
+  - Mud falls with gravity like sand and gravel. Mud will collapse on its self if it is not built block by block.
+  - Crafted with mud balls
  - Packed Mud Block
    - Standing leg deep will greatly slow the player down and negate any fall damage.
    - When fully caked in packed mud, you not only gain the ability to see close objects nearby, but the mud is so strong it gives you Resistance III.
    - Packed mud does not fall with gravity.
+   - Crafted with mud blocks
    
 ## Screenshots
 ![Mud ball being thrown](https://raw.githubusercontent.com/venashial/MudMod/main/images/ThrowingMudBall.png)
