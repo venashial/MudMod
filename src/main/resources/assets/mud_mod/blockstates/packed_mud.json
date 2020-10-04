@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mud_mod:block/packed_mud"
+    },
+    "facing=east": {
+      "model": "mud_mod:block/packed_mud",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mud_mod:block/packed_mud",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mud_mod:block/packed_mud",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "mud_mod:block/packed_mud",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "mud_mod:block/packed_mud",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mud_mod:blocks/mud_block",
+    "up": "mud_mod:blocks/mud_block",
+    "north": "mud_mod:blocks/mud_block",
+    "east": "mud_mod:blocks/mud_block",
+    "south": "mud_mod:blocks/mud_block",
+    "west": "mud_mod:blocks/mud_block",
+    "particle": "mud_mod:blocks/mud_block"
+  }
+}

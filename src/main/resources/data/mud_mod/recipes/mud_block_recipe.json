@@ -1,0 +1,26 @@
+{
+  "group": "mud_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "mud_mod:mud_ball"
+    },
+    "1": {
+      "item": "mud_mod:mud_ball"
+    },
+    "2": {
+      "item": "mud_mod:mud_ball"
+    },
+    "3": {
+      "item": "mud_mod:mud_ball"
+    }
+  },
+  "result": {
+    "item": "mud_mod:mud_block",
+    "count": 1
+  }
+}
