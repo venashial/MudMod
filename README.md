@@ -1,5 +1,7 @@
 # A Mud Mod
-A Minecraft mod that brings various types of mud to the game while keeping the vanilla feel!
+<p align="center">
+  <img src="images/MudModIconTransparent.png" width="150" title="Logo">
+</p>A Minecraft mod that brings various types of mud to the game while keeping the vanilla feel!
 
 ##### Brings mud and packed mud blocks to the game as well as mud balls!
 
